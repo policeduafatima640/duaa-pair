@@ -1,9 +1,10 @@
 
-    "name": "erfan Web Pair",
+    "{
+    "name": "pair session",
     "description": "Web Session Generator",
-    "logo": "https://files.catbox.moe/r2ncqh",
-    "repository": "https://github.com/saasipro/Erfan-pair",
-    "keywords": ["ERFAN "],
+    "logo": "https://i.imgur.com/teQzVR1.jpeg",
+    "repository": "https://github.com/policeduafatima640/Dua-pair",
+    "keywords": ["MalvinTech","XdKing2"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
